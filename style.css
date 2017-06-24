@@ -1,0 +1,8 @@
+body {
+  font-family: 'Raleway';
+}
+.fa-twitter {
+  font-size: 40px;
+  color: #1da1f2;
+  cursor: pointer; 
+}
